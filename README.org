@@ -1,0 +1,9 @@
+* special-functions
+
+Implementation of special functions
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/special-functions.git |
+| commit  | f3ca279                                                |
+| systems | special-functions                                      |
+|---------+--------------------------------------------------------|
