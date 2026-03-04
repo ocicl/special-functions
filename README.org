@@ -4,6 +4,6 @@ Implementation of special functions
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/special-functions.git |
-| commit  | f3ca279                                                |
+| commit  | 05b04a0                                                |
 | systems | special-functions                                      |
 |---------+--------------------------------------------------------|
